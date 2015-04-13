@@ -1,0 +1,39 @@
+Part I: MAX MARKS: 25
+
+
+
+If a demerit shows -n, you lose n marks.
+
+Program works ... max 13 / 25
+Possible demerits:
+    Has compilation errors that prevent program execution: -13
+    Has runtime errors that prevent program completion: -13
+    Does not follow specifications: up to -13
+    Output not as expected: up to -13
+    Has recursive PERFORMs: up to -4
+
+
+Program shows good design ... max 6/25
+    Programmer-defined names not well chosen: up to -3
+    Program is not modular: up to -4
+    Unnecessary inefficiency: up to -3
+
+
+Program follows style principles ... max 6/25
+    No or too few comments (must have at least name, date and purpose at head of the program or -1): up to -2
+    Redundant/unnecessary comments clutter code: up to -1
+    Insufficient whitespace - code too crowded: up to -2
+    PICs, VALUEs etc. don't line up: up to -3
+    Improper use of indentation: up to -4
+    Periods missing where required: up to -2
+    Periods present where not required: up to -2
+    Area A or B violations: up to -2
+    Paragraph names missing: up to -1
+    File(s) not closed: up to -1
+------------------------------------------------------------------------------------------------------------------------------------
+Part II: MAX MARKS :5
+
+Moving the program to the mainframe and it runs successfully with no errors. The required correct output file is created in the user area.
+    
+
+
